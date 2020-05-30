@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.guitartabsfor10kannadasongs">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".VandeeMataram"></activity>
+        <activity android:name=".TereBina" />
+        <activity android:name=".OnduMalebillu" />
+        <activity android:name=".SunRaha" />
+        <activity android:name=".HangOver" />
+        <activity android:name=".Senorita" />
+        <activity android:name=".Salutillave" />
+        <activity android:name=".SabThera" />
+        <activity android:name=".TumHiHo" />
+        <activity android:name=".HaiDilYeMeera" />
+        <activity android:name=".ListChordsActivity" />
+        <activity android:name=".MuguluNage" />
+        <activity android:name=".JanaGanaMana" />
+        <activity android:name=".MunjaaneManjalli" />
+        <activity android:name=".TwinkleTwinkle" />
+        <activity android:name=".HappyBirthday" />
+        <activity android:name=".ListMultipleActivity" />
+        <activity android:name=".ListSingleActivity" />
+        <activity android:name=".OptionActivity" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

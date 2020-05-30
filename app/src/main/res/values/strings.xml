@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Guitarist - 15 Songs For Beginners</string>
+    <string name="single">Songs Using Single String</string>
+    <string name="multiple">Songs Using Multiple String</string>
+    <string name="singledescription">Single</string>
+    <string name="multipledescription">Multiple</string>
+    <string name="HappyBirthday">HappyBirthday</string>
+    <string name="TwinkleTwinkle">Twinkle Twinkle</string>
+    <string name="MunjaaneManjalli">Munjaane Manjalli</string>
+    <string name="JanaGanamana">Jana Gana Mana</string>
+    <string name="MuguluNage">Mugulu Nage</string>
+    <string name="chords">Songs Using Chords</string>
+    <string name="haidilyemera">Hai Dil Ye Mera</string>
+    <string name="tumhiho">Tum Hi Ho</string>
+    <string name="heading">Be a Guitarist</string>
+    <string name="SabThera">Sab Thera</string>
+    <string name="salutillave">Salutillave</string>
+    <string name="senorita">Senorita</string>
+    <string name="hangover">HangOver</string>
+    <string name="sunraha">Sun Raha Hai</string>
+    <string name="OnduMalebillu">Ondu Malebillu</string>
+    <string name="VandeMataram">Vande Mataram</string>
+    <string name="terebin">Tere Bin Nahi Lage</string>
+</resources>
